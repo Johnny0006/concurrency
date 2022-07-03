@@ -1,0 +1,10 @@
+[
+ {
+  "type": "asynchronous",
+  "time(s)": 26.88931679725647
+ },
+ {
+  "type": "synchronous",
+  "time(s)": 190.13872814178467
+ }
+]
